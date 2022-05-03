@@ -1,0 +1,2 @@
+# win-logseq
+win-logseq
